@@ -20,4 +20,8 @@ public class GrupoAutomovel {
         this.numPortas = numPortas;
     }
 
+    public String toString() {
+        return nome;
+    }
+
 }
